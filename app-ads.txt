@@ -1,5 +1,5 @@
 google.com, pub-2198867984469198, DIRECT, f08c47fec0942fa0
-yandex.com, 107329825, DIRECT
+yandex.com, 107994350, DIRECT
 improvedigital.com, 2031, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf8652, RESELLER
 152media.info, 152M241, RESELLER
